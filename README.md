@@ -128,7 +128,7 @@ compresso/
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/compresso.git
+git clone https://github.com/marpace1/compresso.git
 cd compresso
 
 # Option 1: One-command launch (creates venv, installs deps, runs app)
